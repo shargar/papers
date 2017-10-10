@@ -12,3 +12,6 @@ Smith et al have made extensive measurements in this region before, but they hav
 
 # Simulations
 We simulate formation of SOA over W Africa, using John's marvellous model.
+
+# Methodology
+We compare simulations from model Y (Smith et al, 2005) without measurements.

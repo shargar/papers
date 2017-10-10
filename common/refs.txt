@@ -1,2 +1,3 @@
 Bloggs et al 2004, Paper on mass spectrometer
 Smith et all, Previous measurements in W. Africa
+Simth et al, 2005: Atmospheric model description
