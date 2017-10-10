@@ -1,6 +1,6 @@
 # Author 
-Sharon Gardner
-John Smith
+Sharon Gardner University of Manchester
+John Smith University of Somewhere Else
 
 # Title
 Measurement - model comparison of secondary organic aerosol over West Africa
