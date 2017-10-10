@@ -1,8 +1,9 @@
 # Author 
 Sharon Gardner
+John Smith
 
 # Title
-Secondary Organic aerosol over West Africa
+Simulations of Secondary Organic aerosol over West Africa
 
 
 # Introduction section
