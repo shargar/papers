@@ -15,3 +15,7 @@ We simulate formation of SOA over W Africa, using John's marvellous model.
 
 # Methodology
 We compare simulations from model Y (Smith et al, 2005) without measurements.
+
+# Conclusions
+We have made fantastic insight into the particle formation process.
+Nonetheless, questions must remain unanswered, so we should get some more funding.
