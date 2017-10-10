@@ -23,4 +23,7 @@ Our simulations did a great job of reproducing the measurements.
 We have made fantastic insight into the particle formation process.
 Nonetheless, questions must remain unanswered, so we should get some more funding.
 
+# Figures
+Add figures here. It's a draft.
+
 
