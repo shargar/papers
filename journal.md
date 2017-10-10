@@ -1,6 +1,7 @@
 # Author 
 John Smith University of Somewhere Else
 Sharon Gardner University of Manchester
+Stuart Anderson University of Very Tired
 
 # Title
 Measurement - model comparison of secondary organic aerosol over West Africa
