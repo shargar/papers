@@ -2,7 +2,7 @@
 Sharon Gardner
 
 # Title
-Secondary Organic aerosol over West Africa
+Measurements of Secondary Organic aerosol over West Africa
 
 
 # Introduction section
