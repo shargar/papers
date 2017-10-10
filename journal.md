@@ -5,6 +5,9 @@ John Smith
 # Title
 Measurement - model comparison of secondary organic aerosol over West Africa
 
+# Abstract
+Abstracts are hard to write. That's why we do it last.
+
 # Introduction section
 We present measurements of SOA over West Africa.
 The measurements were made using an AMS, as described in Bloggs et al 2004.
